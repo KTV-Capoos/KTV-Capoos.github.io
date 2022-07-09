@@ -1,5 +1,7 @@
 # JioU
 
+![JioU logo](images/Purple%20Logo.png)
+
 ## Table of contents
 
 - [JioU](#jiou)
