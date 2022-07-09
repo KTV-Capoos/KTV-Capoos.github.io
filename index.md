@@ -11,9 +11,14 @@
   - [Business Model](#business-model)
       - [Cash Inflow](#cash-inflow)
       - [Cash Outflow](#cash-outflow)
+  - [Tech Stack](#tech-stack)
+      - [Frontend](#frontend)
+      - [Backend](#backend)
+  - [Process](#process)
   - [Team](#team)
 
 ## Topic Chosen
+
 Whilst Singapore is considered a developed nation, there are still many who are less fortunate than others. How can we embrace inclusivity and integrate people who might otherwise be excluded or marginalised?
 
 #### Why this topic
@@ -31,6 +36,7 @@ JioU is a simple, yet powerful, way to connect with others. Everyone can partici
 Through participating in the events, participants will get to know each other better. Even if the differences between the individuals are not immediately resolved, they will get to know one another better.
 
 ## Why us
+
 1. Learn more about different cultures
 2. Ability to make new friends in the process
 3. Get to meet more like minded people
@@ -45,6 +51,25 @@ Through participating in the events, participants will get to know each other be
 #### Cash Outflow
 
 1. Maintaining the website and development team.
+
+## Tech Stack
+
+#### Frontend
+
+1. [ReactJs](https://reactjs.org/)
+
+#### Backend
+
+1. [Django](https://www.djangoproject.com/)
+2. [sklearn](https://scikit-learn.org/stable/)
+3. [numpy](https://numpy.org/)
+
+## Process
+
+1. [Brainstorming for ideas on Miro](https://miro.com/app/board/uXjVOnXgwq8=/?share_link_id=505580618311)
+2. [Mockup using Figma](https://www.figma.com/file/lRDs5fzVHOPZVTG59N6SVr/JioU?node-id=8101%3A17)
+3. [Github Repo](https://github.com/KTV-Capoos)
+4. [Home Page](https://ktv-capoos.github.io/)
 
 ## Team
 
