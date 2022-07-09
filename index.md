@@ -1,6 +1,6 @@
 # JioU
 
-![JioU logo](images/Purple%20Logo.png)
+<img src="./images/Purple%20Logo.png" alt="Purple Logo" style="width:150px;height:150px;">
 
 ## Table of contents
 
