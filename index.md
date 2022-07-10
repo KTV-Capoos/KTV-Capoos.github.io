@@ -16,6 +16,7 @@
   - [Tech Stack](#tech-stack)
       - [Frontend](#frontend)
       - [Backend](#backend)
+      - [Grouping Algorithm](#grouping-algorithm)
   - [Process](#process)
   - [Team](#team)
 
@@ -65,6 +66,14 @@ Through participating in the events, participants will get to know each other be
 1. [Django](https://www.djangoproject.com/)
 2. [sklearn](https://scikit-learn.org/stable/)
 3. [numpy](https://numpy.org/)
+
+
+#### Grouping Algorithm
+
+Algorithm was not fully integrated into the final product.
+1. Perform KNN with Given 5 Dimensions
+2. Get groups of n that best seperate clusters
+3. Perform Random Swaps with respect to number of groups to ensure even distribution
 
 ## Process
 
